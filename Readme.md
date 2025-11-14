@@ -124,6 +124,7 @@ An AI-powered home security system that enhances safety by recognizing known ind
    ```
 
 2. **Create a virtual environment & install dependencies**
+   
 
    ```bash
    python -m venv venv
@@ -131,7 +132,7 @@ An AI-powered home security system that enhances safety by recognizing known ind
    pip install -r requirements.txt
    ```
 
-3. **Set up environment variables**
+4. **Set up environment variables**
 
    * Create a `.env` file in the project root.
    * Add your credentials:
@@ -142,7 +143,7 @@ An AI-powered home security system that enhances safety by recognizing known ind
      TELEGRAM_CHAT_ID="YOUR_TELEGRAM_CHAT_ID"
      ```
 
-4. **Run the Streamlit app**
+5. **Run the Streamlit app**
 
    ```bash
    streamlit run app.py
