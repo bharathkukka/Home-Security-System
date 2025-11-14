@@ -77,6 +77,7 @@ An AI-powered home security system that enhances safety by recognizing known ind
 ### Notifications
 
 * **Telegram Bot API** – Sends alerts with images and details in real-time.
+  
 
 ### Core Language
 
