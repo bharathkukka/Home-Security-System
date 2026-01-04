@@ -4,7 +4,7 @@ An AI-powered home security system that enhances safety by recognizing known ind
 
 ---
 
-## 🚀 Features
+## 🚀 *Features*
 
 * **👤 Face Recognition**  [Code](Model/FaceRecognition/FRinceptionResnet.py)
 
