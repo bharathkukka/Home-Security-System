@@ -1,4 +1,4 @@
-# 🏠 Intelligent Home Security System
+# 🏠 *Intelligent Home Security System*
 
 An AI-powered home security system that enhances safety by recognizing known individuals, flagging unknown persons, detecting weapons, monitoring for falls, and identifying dangerous animals — all in **real-time** with instant **Telegram alerts**.
 
